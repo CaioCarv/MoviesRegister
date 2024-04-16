@@ -1,0 +1,9 @@
+!SESSION Mon Apr 15 14:12:58 BRT 2024 ------------------------------------------
+!ENTRY org.eclipse.equinox.launcher 4 0 2024-04-15 14:12:58.972
+!MESSAGE Exception launching the Eclipse Platform:
+!STACK
+java.io.FileNotFoundException: Could not find framework under c:\Users\caiof\PROGRAMMING\Lyon\plugins
+	at org.eclipse.equinox.launcher.Main.getBootPath(Main.java:975)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:570)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1461)
+
